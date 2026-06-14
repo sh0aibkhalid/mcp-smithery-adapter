@@ -1,0 +1,13 @@
+{
+  "name": "smithery-to-mcp-registry-adapter",
+  "version": "1.0.0",
+  "description": "Re-serves the Smithery MCP catalog in the official MCP Registry OpenAPI format so it can be synced as an upstream.",
+  "main": "smithery-to-mcp-registry-adapter.js",
+  "scripts": {
+    "start": "node smithery-to-mcp-registry-adapter.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
